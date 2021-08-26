@@ -10,7 +10,7 @@ I'm Razvan from Romania, I'm a professional tech marketer specialized in project
 🖊️ HTML
 🌈 CSS
 
-• the universal concepts of computer programming (i.e.variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)</hr>
+• the universal concepts of computer programming (i.e.variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)<br>
 • developer tools and the runtime environment;
 • the syntax and semantics of the Python language;
 • the fundamentals of object-oriented programming and the way they are adopted in Python;
