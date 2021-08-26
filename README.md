@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Razvan Chirilov 
 
-<!--
-**razvanchirilov/razvanchirilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Razvan from Romania, I am a professional tech marketer specialized in project management with over 15 years of hands-on big projects and big teams, passionate about new tech stuff.I really enjoy learning  languages and frameworks like Python and Flask/ Django frameworks, and I also kwow things about HTML and CSS.
 
+## Skills and Experience
+🐍 Python
+🚀 Django
+🖊️ HTML
+🌈 CSS
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
