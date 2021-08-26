@@ -11,16 +11,16 @@ I'm Razvan from Romania, I'm a professional tech marketer specialized in project
 🌈 CSS
 
 -  the universal concepts of computer programming (i.e.variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)<br>
-• developer tools and the runtime environment;<br>
-• the syntax and semantics of the Python language;<br>
-• the fundamentals of object-oriented programming and the way they are adopted in Python;<br>
-• the means by which to resolve typical implementation problems;<br>
-• the writing of Python programs using standard language infrastructure;<br>
-• fundamental programming techniques, best practices, customs and vocabulary, including the most common library functions in Python 3.<br>
-• Knowledge of functional and object oriented programming (Inheritance, abstraction, encapsulation, decorators in classes and functions), system modules, times, archives, data storages in different types of files, multiprocessing and threading;<br>
-• modules: socket, NTP, Telnet, SSH/TTL;<br>
-• web scrapping tools like Beautiful Soup, Selenium;<br>
-• I deepened the base of Django framework where I worked on several backend infrastructures of websites
+-  developer tools and the runtime environment;<br>
+-  the syntax and semantics of the Python language;<br>
+-  the fundamentals of object-oriented programming and the way they are adopted in Python;<br>
+-  the means by which to resolve typical implementation problems;<br>
+-  the writing of Python programs using standard language infrastructure;<br>
+-  fundamental programming techniques, best practices, customs and vocabulary, including the most common library functions in Python 3.<br>
+-  Knowledge of functional and object oriented programming (Inheritance, abstraction, encapsulation, decorators in classes and functions), system modules, times, archives, data storages in different types of files, multiprocessing and threading;<br>
+-  modules: socket, NTP, Telnet, SSH/TTL;<br>
+-  web scrapping tools like Beautiful Soup, Selenium;<br>
+-  I deepened the base of Django framework where I worked on several backend infrastructures of websites
 
 
 - 🔭 I’m currently working on ...
