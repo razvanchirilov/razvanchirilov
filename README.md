@@ -1,4 +1,4 @@
-### Hi there 👋, I am Razvan Chirilov 
+# Hi there 👋, I am Razvan Chirilov 
 
 I am Razvan from Romania, I am a professional tech marketer specialized in project management with over 15 years of hands-on big projects and big teams, passionate about new tech stuff.I really enjoy learning  languages and frameworks like Python and Flask/ Django frameworks, and I also kwow things about HTML and CSS.
 
@@ -7,7 +7,7 @@ I am Razvan from Romania, I am a professional tech marketer specialized in proje
 🚀 Django
 🖊️ HTML
 🌈 CSS
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
