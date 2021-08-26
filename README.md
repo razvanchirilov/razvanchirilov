@@ -22,8 +22,6 @@ I am Razvan from Romania, I am a professional tech marketer specialized in proje
 -  modules: socket, NTP, Telnet, SSH/TTL;<br>
 -  web scrapping tools like Beautiful Soup, Selenium;<br>
 -  I deepened the base of Django framework where I worked on several backend infrastructures of websites
-- 🌱 I’m currently learning DJANGO, SQL and MongoDB 
-
 
 
 ###  Ways of contact
