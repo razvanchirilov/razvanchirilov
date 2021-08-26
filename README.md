@@ -8,6 +8,8 @@ I am Razvan from Romania, I am a professional tech marketer specialized in proje
 🖊️ HTML
 🌈 CSS
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razvanchirilov)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
