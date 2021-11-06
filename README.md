@@ -1,5 +1,5 @@
 # Razvan Chirilov
-## Design and Development
+## Python Developer
 
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1641427200&v=beta&t=yRUDhTlyLIRhlGYP7rfhwJzvlEnY8rB_iJji-mXIe-w)
 
