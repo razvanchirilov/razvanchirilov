@@ -4,12 +4,14 @@
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1641427200&v=beta&t=yRUDhTlyLIRhlGYP7rfhwJzvlEnY8rB_iJji-mXIe-w)
 
 I am Razvan from Romania, I am a professional tech marketer specialized in project management with over 15 years of hands-on big projects and big teams, passionate about software development and new tech stuff. 
+For more than one year I am on a new way, learning with passion day by day and looking to be a good python developer. 
 
 ### Skills and Experience<br>
 🐍 Python
 🚀 Django
 🖊️ HTML
 🌈 CSS
+🧰 MYSQL
 
 -  the universal concepts of computer programming (i.e.variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)<br>
 -  developer tools and the runtime environment;<br>
