@@ -1,12 +1,9 @@
 # Razvan Chirilov
 ## Python Developer
 
-![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1657756800&v=beta&t=CaFH9YeQKCsJycGQfijnFbvlXs230baTPOV9DeT6Tqk)
+![Design and Development]([https://media-exp1.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1657756800&v=beta&t=CaFH9YeQKCsJycGQfijnFbvlXs230baTPOV9DeT6Tqk](https://media.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1678924800&v=beta&t=l17dChssdc5-BCSTk6C1EDRX72OyUBKIdU-bzt5nze4))
 
-I am interested in software development and I am very passionate about new techs.
-Learning and always being up to date with new tech trends, I decided to make a change in my career to the IT area and for this path, I have been intensely preparing for more than 2 years and I am still learning and looking for opportunities.
-I am learning and testing Python, Flask and Django Frameworks, MySQL, GIT @ Cisco Networking Academy and looking forward to NoSQL, MongoDB.
-I am also familiar with web scrapping tools like Beautiful Soup, Selenium, Playwright and Scrapy framework, working on several projects in this regard. 
+I am a self-motivated and results-driven individual with a passion for new technologies, particularly in the field of software development. Over the past 1.5 years, I have actively prepared to transition into the field of information technology by staying current with new technological trends and gaining hands-on experience through self-learning and taking certified courses. My initial programming experience was self-taught using platforms like Codecademy and Coursera, and later, I completed a certified course in Python Fundamentals, OOP in Python, the Django framework, MySQL, HTML, and CSS at the Cisco Networking Academy. 
 
 ### Skills and Experience<br>
 🐍 Python
@@ -16,17 +13,15 @@ I am also familiar with web scrapping tools like Beautiful Soup, Selenium, Playw
 🌈 CSS
 🧰 MYSQL
 
--  the universal concepts of computer programming (i.e.variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.)<br>
--  developer tools and the runtime environment;<br>
--  the syntax and semantics of the Python language;<br>
--  the fundamentals of object-oriented programming and the way they are adopted in Python;<br>
--  the means by which to resolve typical implementation problems;<br>
--  the writing of Python programs using standard language infrastructure;<br>
--  fundamental programming techniques, best practices, customs and vocabulary, including the most common library functions in Python 3.<br>
--  Knowledge of functional and object oriented programming (Inheritance, abstraction, encapsulation, decorators in classes and functions), system modules, times, archives, data storages in different types of files, multiprocessing and threading;<br>
--  modules: socket, NTP, Telnet, SSH/TTL;<br>
--  web scrapping tools like Beautiful Soup, Selenium, Playwright and Scrapy;<br>
--  I deepened the base of Django framework where I worked on several backend infrastructures of websites
+» The fundamental ideas of computer programming (i.e., variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.);<br>
+» Developer tools and the runtime environment;<br>
+» The syntax and semantics of the Python language;<br>
+» The foundations of object-oriented programming and how Python implements them;<br>
+» Recommended methods, and the most popular Python library functions;<br>
+» Knowledge of system modules, times, archives, data storage in various types of files, multiprocessing, and threading, as well as functional and object-oriented programming (including inheritance, abstraction, encapsulation, and decorators in classes and functions)<br>
+» Socket, NTP, Telnet, SSH/TTL, and Request
+» Web scraping frameworks such as Selenium, Beautiful Soup, and Scrapy (some of my scrips are on my GitHub profile)
+» I strengthened the Flask and Django framework's foundation while working on various backend infrastructures. I am familiar with software and hardware architectures.
 
 
 ###  Ways of contact
