@@ -1,7 +1,7 @@
 # Razvan Chirilov
 ## Python Developer
 
-![Design and Development]([https://media-exp1.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1657756800&v=beta&t=CaFH9YeQKCsJycGQfijnFbvlXs230baTPOV9DeT6Tqk](https://media.licdn.com/dms/image/C4D16AQFqkuq1Pnb5aQ/profile-displaybackgroundimage-shrink_350_1400/0/1585136241413?e=1678924800&v=beta&t=l17dChssdc5-BCSTk6C1EDRX72OyUBKIdU-bzt5nze4))
+![Design and Development](https://cdn.pixabay.com/photo/2017/11/09/10/40/innovation-2933014_960_720.jpg)
 
 I am a self-motivated and results-driven individual with a passion for new technologies, particularly in the field of software development. Over the past 1.5 years, I have actively prepared to transition into the field of information technology by staying current with new technological trends and gaining hands-on experience through self-learning and taking certified courses. My initial programming experience was self-taught using platforms like Codecademy and Coursera, and later, I completed a certified course in Python Fundamentals, OOP in Python, the Django framework, MySQL, HTML, and CSS at the Cisco Networking Academy. 
 
