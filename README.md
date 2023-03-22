@@ -13,12 +13,12 @@ I'm a professional Scrapy engineer with over 5 years of experience in web scrapi
 🌈 CSS
 🧰 MYSQL
 
-•	Scrapy: As a Scrapy expert, I am skilled in crafting custom spiders, middleware, and pipelines to efficiently crawl and extract the required data from websites of any complexity. I have experience in handling dynamic websites, AJAX, pagination, and CAPTCHAs, ensuring that the data you receive is accurate, reliable, and comprehensive.
-•	Python: Proficient in Python, I am well-versed in BeautifulSoup, Requests, Selenium, and other essential libraries to complement Scrapy and provide tailor-made solutions to your scraping needs.
-•	Data Cleaning & Processing: Extracted data is often messy and unstructured. I can help you clean, process, and structure your data, ensuring it's ready for analysis, visualization, or integration into your existing systems.
-•	Data Storage & Integration: Need the extracted data in a specific format or database? No problem! I can export data in CSV, JSON, XML, or store it directly in MySQL, MongoDB, or other databases, making it easy for you to access and analyze.
-•	Anti-Scraping Techniques: Websites frequently employ anti-scraping measures to prevent bots from accessing their content. I can bypass these measures using techniques such as rotating IP addresses, managing cookies, and employing proxies to ensure seamless data extraction.
-•	Reliability & Scalability: My solutions are built with reliability and scalability in mind. I can help you set up scheduled scraping tasks, monitor their performance, and make any necessary adjustments to ensure you receive fresh data when you need it.
+>>	Scrapy: As a Scrapy expert, I am skilled in crafting custom spiders, middleware, and pipelines to efficiently crawl and extract the required data from websites of any complexity. I have experience in handling dynamic websites, AJAX, pagination, and CAPTCHAs, ensuring that the data you receive is accurate, reliable, and comprehensive.
+>>	Python: Proficient in Python, I am well-versed in BeautifulSoup, Requests, Selenium, and other essential libraries to complement Scrapy and provide tailor-made solutions to your scraping needs.
+>>	Data Cleaning & Processing: Extracted data is often messy and unstructured. I can help you clean, process, and structure your data, ensuring it's ready for analysis, visualization, or integration into your existing systems.
+>>	Data Storage & Integration: Need the extracted data in a specific format or database? No problem! I can export data in CSV, JSON, XML, or store it directly in MySQL, MongoDB, or other databases, making it easy for you to access and analyze.
+>>	Anti-Scraping Techniques: Websites frequently employ anti-scraping measures to prevent bots from accessing their content. I can bypass these measures using techniques such as rotating IP addresses, managing cookies, and employing proxies to ensure seamless data extraction.
+>>	Reliability & Scalability: My solutions are built with reliability and scalability in mind. I can help you set up scheduled scraping tasks, monitor their performance, and make any necessary adjustments to ensure you receive fresh data when you need it.
 
 
 ###  Ways of contact
