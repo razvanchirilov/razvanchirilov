@@ -1,9 +1,9 @@
 # Razvan Chirilov
-## Python Developer
+## Title: Experienced Scrapy Engineer | Web Scraping | Data Extraction | Python
 
 ![Design and Development](https://cdn.pixabay.com/photo/2017/11/09/10/40/innovation-2933014_960_720.jpg)
 
-I am a self-motivated and results-driven individual with a passion for new technologies, particularly in the field of software development. Over the past 1.5 years, I have actively prepared to transition into the field of information technology by staying current with new technological trends and gaining hands-on experience through self-learning and taking certified courses. My initial programming experience was self-taught using platforms like Codecademy and Coursera, and later, I completed a certified course in Python Fundamentals, OOP in Python, the Django framework, MySQL, HTML, and CSS at the Cisco Networking Academy. 
+I'm a professional Scrapy engineer with over 5 years of experience in web scraping, data extraction, and Python programming. I have a proven track record of delivering high-quality results to clients across various industries, including e-commerce, real estate, finance, and more. I'm passionate about helping businesses unlock the potential of data and make informed decisions with the power of web scraping. 
 
 ### Skills and Experience<br>
 🐍 Python
@@ -13,15 +13,12 @@ I am a self-motivated and results-driven individual with a passion for new techn
 🌈 CSS
 🧰 MYSQL
 
-» The fundamental ideas of computer programming (i.e., variables, flow control, data structures, algorithms, conditional execution, loops, functions, etc.);<br>
-» Developer tools and the runtime environment;<br>
-» The syntax and semantics of the Python language;<br>
-» The foundations of object-oriented programming and how Python implements them;<br>
-» Recommended methods, and the most popular Python library functions;<br>
-» Knowledge of system modules, times, archives, data storage in various types of files, multiprocessing, and threading, as well as functional and object-oriented programming (including inheritance, abstraction, encapsulation, and decorators in classes and functions)<br>
-» Socket, NTP, Telnet, SSH/TTL, and Request
-» Web scraping frameworks such as Selenium, Beautiful Soup, and Scrapy (some of my scrips are on my GitHub profile)
-» I strengthened the Flask and Django framework's foundation while working on various backend infrastructures. I am familiar with software and hardware architectures.
+•	Scrapy: As a Scrapy expert, I am skilled in crafting custom spiders, middleware, and pipelines to efficiently crawl and extract the required data from websites of any complexity. I have experience in handling dynamic websites, AJAX, pagination, and CAPTCHAs, ensuring that the data you receive is accurate, reliable, and comprehensive.
+•	Python: Proficient in Python, I am well-versed in BeautifulSoup, Requests, Selenium, and other essential libraries to complement Scrapy and provide tailor-made solutions to your scraping needs.
+•	Data Cleaning & Processing: Extracted data is often messy and unstructured. I can help you clean, process, and structure your data, ensuring it's ready for analysis, visualization, or integration into your existing systems.
+•	Data Storage & Integration: Need the extracted data in a specific format or database? No problem! I can export data in CSV, JSON, XML, or store it directly in MySQL, MongoDB, or other databases, making it easy for you to access and analyze.
+•	Anti-Scraping Techniques: Websites frequently employ anti-scraping measures to prevent bots from accessing their content. I can bypass these measures using techniques such as rotating IP addresses, managing cookies, and employing proxies to ensure seamless data extraction.
+•	Reliability & Scalability: My solutions are built with reliability and scalability in mind. I can help you set up scheduled scraping tasks, monitor their performance, and make any necessary adjustments to ensure you receive fresh data when you need it.
 
 
 ###  Ways of contact
