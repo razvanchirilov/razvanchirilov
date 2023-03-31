@@ -3,7 +3,7 @@
 
 ![Design and Development](https://cdn.pixabay.com/photo/2017/11/09/10/40/innovation-2933014_960_720.jpg)
 
-I'm a professional Scrapy engineer with over 5 years of experience in web scraping, data extraction, and Python programming. I have a proven track record of delivering high-quality results to clients across various industries, including e-commerce, real estate, finance, and more. I'm passionate about helping businesses unlock the potential of data and make informed decisions with the power of web scraping. 
+I'm a professional Scrapy engineer with over 3 years of experience in web scraping, data extraction, and Python programming. I have a proven track record of delivering high-quality results to clients across various industries, including e-commerce, real estate, finance, and more. I'm passionate about helping businesses unlock the potential of data and make informed decisions with the power of web scraping. 
 
 ### Skills and Experience<br>
 🐍 Python
