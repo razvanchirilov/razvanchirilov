@@ -1,5 +1,5 @@
 # Razvan Chirilov
-## Title: Experienced Scrapy Engineer | Web Scraping | Data Extraction | Python
+## Experienced Scrapy Engineer | Web Scraping | Data Extraction | Python
 
 ![Design and Development](https://cdn.pixabay.com/photo/2017/11/09/10/40/innovation-2933014_960_720.jpg)
 
